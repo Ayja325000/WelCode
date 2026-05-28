@@ -1,0 +1,5 @@
+{
+  "apiBaseUrl": "https://gmncode.com",
+  "apiKey": "sk-c34d822083dfe30692a9a0bcd0a8ec8bc8be6fe7b0980a5c8eaed7879118358f",
+  "model": "gpt-5.3-codex"
+}
